@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JarekMazurczak
-- 👀 I’m interested in PHP, Laravel, JS, CSS, HTML, SQL, JAVA
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Frontend and Backend Dev.
+- 👀 I’m interested in JAVA, Kotlin, Spring, Android Studio
+- 🌱 I’m currently learning Spring
+- 💞️ I’m looking to collaborate on Mobile & FullStack.
 - 📫 How to reach me: webhostel@gmail.com
 - M: +48607472837
 
