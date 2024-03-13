@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JarekMazurczak
-- 👀 I’m interested in JAVA, Kotlin, Spring, Android Studio
-- 🌱 I’m currently learning Spring
+- 👀 I’m interested in FlutterFlow
+- 🌱 I’m currently learning FlutterFlow
 - 💞️ I’m looking to collaborate on Mobile & FullStack.
 - 📫 How to reach me: webhostel@gmail.com
 - M: +48607472837
